@@ -1,0 +1,14 @@
+﻿  Lab6.cpp
+C:\Users\Максим\source\repos\Lab6\Lab6\Lab6.cpp(53,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Максим\source\repos\Lab6\Lab6\Lab6.cpp(66,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Максим\source\repos\Lab6\Lab6\Lab6.cpp(67,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Максим\source\repos\Lab6\Lab6\Lab6.cpp(197,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Максим\source\repos\Lab6\Lab6\Lab6.cpp(215,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Максим\source\repos\Lab6\Lab6\Lab6.cpp(216,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Максим\source\repos\Lab6\Lab6\Lab6.cpp(222,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Максим\source\repos\Lab6\Lab6\Lab6.cpp(223,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Максим\source\repos\Lab6\Lab6\Lab6.cpp(253,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Максим\source\repos\Lab6\Lab6\Lab6.cpp(253,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Максим\source\repos\Lab6\Lab6\Lab6.cpp(254,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Максим\source\repos\Lab6\Lab6\Lab6.cpp(254,39): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab6.vcxproj -> C:\Users\Максим\source\repos\Lab6\Debug\Lab6.exe
