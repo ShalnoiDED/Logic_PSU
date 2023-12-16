@@ -1,0 +1,3 @@
+﻿  KursovaiRabota2.cpp
+C:\Users\Максим\source\repos\KursovaiRabota2\KursovaiRabota2\KursovaiRabota2.cpp(80,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  KursovaiRabota2.vcxproj -> C:\Users\Максим\source\repos\KursovaiRabota2\Debug\KursovaiRabota2.exe
